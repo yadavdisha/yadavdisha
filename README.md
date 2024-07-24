@@ -1,5 +1,7 @@
 ## Hello, World! 👋
-I'm Disha Yadav, a passionate Data Scientist, Data Engineer, Business Analyst, and Data Analyst. Welcome to my GitHub profile!
+![MasterHead](https://github.com/ElizaLo/Data-Science/blob/master/img/Banner_Data_Science.png)
+
+I'm Disha Yadav, a passionate Data Scientist, Data Engineer /Data Analyst. Welcome to my GitHub profile!
 
 ## About Me 📝
 
@@ -36,7 +38,12 @@ PySpark, Apache Spark, Airflow, Apache Kafka, Databricks, Azure Data Factory
 
 📓 Jupyter Notebook, 🖥️ VSCode, 🐳 Docker, 🐙 Git, ⚡ FastAPI, 🧱 Flask, 🐝 Apache Kafka
 
+## Profile Preview 🌟
+![Profile Views](https://komarev.com/ghpvc/?username=yadavdisha&color=blue)
 
+[![Disha's Profile Preview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadavdisha&theme=radical)](https://github.com/yadavdisha)
+
+## Connect with Me 🌐
 
 📧 dcy26@drexel.edu
 💼 [LinkedIn](https://www.linkedin.com/in/disha-yadav/)
