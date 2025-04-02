@@ -45,6 +45,6 @@ PySpark, Apache Spark, Airflow, Apache Kafka, Databricks, Azure Data Factory
 
 ## Connect with Me 🌐
 
-📧 dcy26@drexel.edu
-💼 [LinkedIn](https://www.linkedin.com/in/disha-yadav/)
+
+
 📂 [GitHub](https://github.com/yadavdisha)
